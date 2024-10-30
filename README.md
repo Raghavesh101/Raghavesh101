@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python,  Neural Networks<br><br>👯 I’m looking to collaborate on AI and Web3 related work<br><br>💬 Talk to me about Machine Learning<br><br>📫 How to reach me raghaveshmishra@outlook.com<br><br>⚡ Science in more art than Art
+🌱 I’m currently learning Quantitative Trading,  Algorithms<br><br>👯 I’m eager to learn about Machine Learning and Alphas<br><br>💬 Talk to me about Machine Learning, Markets, Options etc.<br><br>📫 How to reach me raghaveshmishra@outlook.com<br><br>⚡ Science in more art than Art
 
 
 ## 🌐 Socials:
