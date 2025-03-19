@@ -3,17 +3,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F71313&duration=4000&lines=Hi+There!+👋;+I'm+Raghavesh+Mishra!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Quantitative Trading, Machine Learning**
+ 🔭 I’m currently working on **Quantitative Trading, Full Stack, AI**
  
- 🌱 I’m currently learning **C++, Alphas, Algorithms**
+ 🌱 I’m currently learning **C++, Algorithms, Python**
 
-💬 Ask me about **Node.js, Python, Firebase... or anything**
+💬 Ask me about **Anime, Stars, Music**
 
 ⚡ Fun fact **Science is more Art than Art**
 
