@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **Quantitative Trading, Full Stack, AI**
  
- 🌱 I’m currently learning **C++, Algorithms, Python**
+ 🌱 I’m currently learning **C++, Algorithms, Python, Java**
 
 💬 Ask me about **Anime, Stars, Music**
 
@@ -36,17 +36,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,java,mysql,express,firebase,mongodb,flask" /><br>
 </div>
-
 <br/>
-<hr/>
-
-
-
-<hr/>
 <br/><br/>
-
-<hr/>
-
-<br/>
-
 <br/>
